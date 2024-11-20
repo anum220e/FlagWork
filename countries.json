@@ -1,0 +1,1324 @@
+
+[
+	{
+		"flag": "assets/images/Ascension Island.png",
+		"country": "Ascension Island",
+		"code": "ac"
+	},
+	{
+		"flag": "assets/images/Andorra.png",
+		"country": "Andorra",
+		"code": "ad"
+	},
+	{
+		"flag": "assets/images/United ArabEmirates.png",
+		"country": "United ArabEmirates ",
+		"code": "AED"
+	},
+	{
+		"flag": "assets/images/Afghanistan.png",
+		"country": "Afghanistan",
+		"code": "af"
+	},
+	{
+		"flag": "assets/images/Antigua & Barbuda.png",
+		"country": "Antigua & Barbuda",
+		"code": "ag"
+	},
+	{
+		"flag": "assets/images/Anguilla.png",
+		"country": "Anguilla",
+		"code": "ai"
+	},
+	{
+		"flag": "assets/images/Albania.png",
+		"country": "Albania",
+		"code": "al"
+	},
+	{
+		"flag": "assets/images/Armenia.png",
+		"country": "Armenia",
+		"code": "am"
+	},
+	{
+		"flag": "assets/images/Angola.png",
+		"country": "Angola",
+		"code": "ad"
+	},
+	{
+		"flag": "assets/images/Antarctica.png",
+		"country": "Antarctica",
+		"code": "aq"
+	},
+	{
+		"flag": "assets/images/Argentina.png",
+		"country": "Argentina",
+		"code": "ar"
+	},
+	{
+		"flag": "assets/images/American Samoa.png",
+		"country": "American Samoa",
+		"code": "as"
+	},
+	{
+		"flag": "assets/images/Austria.png",
+		"country": "Austria",
+		"code": "at"
+	},
+	{
+		"flag": "assets/images/Australlia.png",
+		"country": "Australia",
+		"code": "au"
+	},
+	{
+		"flag": "assets/images/Aruba.png",
+		"country": "Aruba",
+		"code": "aw"
+	},
+	{
+		"flag": "assets/images/Åland Islands.png",
+		"country": "Åland Islands",
+		"code": "ax"
+	},
+	{
+		"flag": "assets/images/Azerbaijan.png",
+		"country": "Azerbaijan",
+		"code": "az"
+	},
+	{
+		"flag": "assets/images/Bosnia & Herzegovina.png",
+		"country": "Bosnia & Herzegovina",
+		"code": "ba"
+	},
+	{
+		"flag": "assets/images/Barbados.png",
+		"country": "Barbados",
+		"code": "bb"
+	},
+	{
+		"flag": "assets/images/Bangladesh.png",
+		"country": "Bangladesh",
+		"code": "BDT"
+	},
+	{
+		"flag": "assets/images/Belgium.png",
+		"country": "Belgium",
+		"code": "be"
+	},
+	{
+		"flag": "assets/images/Burkina Faso.png",
+		"country": "Burkina Faso",
+		"code": "bf"
+	},
+	{
+		"flag": "assets/images/Bulgaria.png",
+		"country": "Bulgaria",
+		"code": "bg"
+	},
+	{
+		"flag": "assets/images/Bahrain.png",
+		"country": "Bahrain",
+		"code": "bh"
+	},
+	{
+		"flag": "assets/images/Burundi.png",
+		"country": "Burundi",
+		"code": "bi"
+	},
+	{
+		"flag": "assets/images/Benin.png",
+		"country": "Benin",
+		"code": "bj"
+	},
+	{
+		"flag": "assets/images/St. Barthélemy.png",
+		"country": "St. Barthélemy",
+		"code": "bl"
+	},
+	{
+		"flag": "assets/images/Bermuda.png",
+		"country": "Bermuda",
+		"code": "bm"
+	},
+	{
+		"flag": "assets/images/Brunei.png",
+		"country": "Brunei",
+		"code": "bn"
+	},
+	{
+		"flag": "assets/images/Bolivia.png",
+		"country": "Bolivia",
+		"code": "bo"
+	},
+	{
+		"flag": "assets/images/Caribbean Netherlands.png",
+		"country": "Caribbean Netherlands"
+	},
+	{
+		"flag": "assets/images/Brazil.png",
+		"country": "Brazil",
+		"code": "br"
+	},
+	{
+		"flag": "assets/images/Bahamas.png",
+		"country": "Bahamas",
+		"code": "bs"
+	},
+	{
+		"flag": "assets/images/Bhutan.png",
+		"country": "Bhutan",
+		"code": "bt"
+	},
+	{
+		"flag": "assets/images/Bouvet Island.png",
+		"country": "Bouvet Island",
+		"code": "bv"
+	},
+	{
+		"flag": "assets/images/Botswana.png",
+		"country": "Botswana",
+		"code": "bw"
+	},
+	{
+		"flag": "assets/images/Belarus .png",
+		"country": "Belarus",
+		"code": "by"
+	},
+	{
+		"flag": "assets/images/Belize.png",
+		"country": "Belize",
+		"code": "bz"
+	},
+	{
+		"flag": "assets/images/Canada.png",
+		"country": "Canada",
+		"code": "ca"
+	},
+	{
+		"flag": "assets/images/Cocos (Keeling) Islands.png",
+		"country": "Cocos (Keeling) Islands",
+		"code": "cc"
+	},
+	{
+		"flag": "assets/images/Congo - Kinshasa.png",
+		"country": "Congo - Kinshasa",
+		"code": "cg"
+	},
+	{
+		"flag": "assets/images/Central African Republic.png",
+		"country": "Central African Republic",
+		"code": "cf"
+	},
+	
+		{
+			"flag": "assets/images/Switzerland.png",
+			"country": "Switzerland",
+			"code": "CH"
+		},
+		{
+			"flag": "assets/images/Côte d’Ivoire.png",
+			"country": "Côte d’Ivoire",
+			"code": "CI"
+		},
+		{
+			"flag": "assets/images/Cook Islands.png",
+			"country": "Cook Islands",
+			"code": "CK"
+		},
+		{
+			"flag": "assets/images/Chile.png",
+			"country": "Chile",
+			"code": "CL"
+		},
+		{
+			"flag": "assets/images/Cameroon.png",
+			"country": "Cameroon",
+			"code": "CM"
+		},
+		{
+			"flag": "assets/images/China.png",
+			"country": "China",
+			"code": "CN"
+		},
+		{
+			"flag": "assets/images/Colombia.png",
+			"country": "Colombia",
+			"code": "CO"
+		},
+		{
+			"flag": "assets/images/Clipperton Island.png",
+			"country": "Clipperton Island",
+			"code": "CP"
+		},
+		{
+			"flag": "assets/images/pkrFlag.png",
+			"country": "Costa Rica",
+			"code": "CR"
+		},
+		{
+			"flag": "assets/images/pkrFlag.png",
+			"country": "Cuba",
+			"code": "CU"
+		},
+		{
+			"flag": "assets/images/pkrFlag.png",
+			"country": "Cape Verde",
+			"code": "CV"
+		},
+		{
+			"flag": "assets/images/pkrFlag.png",
+			"country": "Curaçao",
+			"code": "CW"
+		},
+		{
+			"flag": "assets/images/pkrFlag.png",
+			"country": "Christmas Island",
+			"code": "CX"
+		},
+		{
+			"flag": "assets/images/pkrFlag.png",
+			"country": "Cyprus",
+			"code": "CY"
+		},
+		{
+			"flag": "assets/images/pkrFlag.png",
+			"country": "Czechia",
+			"code": "CZ"
+		},
+		{
+			"flag": "assets/images/pkrFlag.png",
+			"country": "Germany",
+			"code": "DE"
+		},
+		{
+			"flag": "assets/images/pkrFlag.png",
+			"country": "Diego Garcia",
+			"code": "DG"
+		},
+		{
+			"flag": "assets/images/pkrFlag.png",
+			"country": "Djibouti",
+			"code": "DJ"
+		},
+		{
+			"flag": "assets/images/pkrFlag.png",
+			"country": "Denmark",
+			"code": "DK"
+		},
+		{
+			"flag": "assets/images/pkrFlag.png",
+			"country": "Dominica",
+			"code": "DM"
+		},
+		{
+			"flag": "assets/images/pkrFlag.png",
+			"country": "Dominican Republic",
+			"code": "DO"
+		},
+		{
+			"flag": "assets/images/pkrFlag.png",
+			"country": "Algeria",
+			"code": "DZ"
+		},
+		{
+			"flag": "assets/images/pkrFlag.png",
+			"country": "Ceuta & Melilla",
+			"code": "EA"
+		},
+		{
+			"flag": "assets/images/pkrFlag.png",
+			"country": "Ecuador",
+			"code": "EC"
+		},
+		{
+			"flag": "assets/images/pkrFlag.png",
+			"country": "Estonia",
+			"code": "EE"
+		},
+		{
+			"flag": "assets/images/pkrFlag.png",
+			"country": "Egypt",
+			"code": "EG"
+		},
+		{
+			"flag": "assets/images/pkrFlag.png",
+			"country": "Western Sahara",
+			"code": "EH"
+		},
+		{
+			"flag": "assets/images/pkrFlag.png",
+			"country": "Eritrea",
+			"code": "ER"
+		},
+		{
+			"flag": "assets/images/pkrFlag.png",
+			"country": "Spain",
+			"code": "ES"
+		},
+		{
+			"flag": "assets/images/pkrFlag.png",
+			"country": "Ethiopia",
+			"code": "ET"
+		},
+		{
+			"flag": "assets/images/pkrFlag.png",
+			"country": "European Union",
+			"code": "EU"
+		},
+		{
+			"flag": "assets/images/pkrFlag.png",
+			"country": "Finland",
+			"code": "FI"
+		},
+		{
+			"flag": "assets/images/pkrFlag.png",
+			"country": "Fiji",
+			"code": "FJ"
+		},
+		{
+			"flag": "assets/images/pkrFlag.png",
+			"country": "Falkland Islands",
+			"code": "FK"
+		},
+		{
+			"flag": "assets/images/pkrFlag.png",
+			"country": "Micronesia",
+			"code": "FM"
+		},
+		{
+			"flag": "assets/images/pkrFlag.png",
+			"country": "Faroe Islands",
+			"code": "FO"
+		},
+		{
+			"flag": "assets/images/pkrFlag.png",
+			"country": "France",
+			"code": "FR"
+		},
+		{
+			"flag": "assets/images/pkrFlag.png",
+			"country": "Gabon",
+			"code": "GA"
+		},
+		{
+			"flag": "assets/images/pkrFlag.png",
+			"country": "United Kingdom",
+			"code": "GB"
+		},
+		{
+			"flag": "assets/images/pkrFlag.png",
+			"country": "Grenada",
+			"code": "GD"
+		},
+		{
+			"flag": "assets/images/pkrFlag.png",
+			"country": "Georgia",
+			"code": "GE"
+		},
+		{
+			"flag": "assets/images/pkrFlag.png",
+			"country": "French Guiana",
+			"code": "GF"
+		},
+		{
+			"flag": "assets/images/pkrFlag.png",
+			"country": "Guernsey",
+			"code": "GG"
+		},
+		{
+			"flag": "assets/images/pkrFlag.png",
+			"country": "Ghana",
+			"code": "GH"
+		},
+		{
+			"flag": "assets/images/pkrFlag.png",
+			"country": "Gibraltar",
+			"code": "GI"
+		},
+		{
+			"flag": "assets/images/pkrFlag.png",
+			"country": "Greenland",
+			"code": "GL"
+		},
+		{
+			"flag": "assets/images/pkrFlag.png",
+			"country": "Gambia",
+			"code": "GM"
+		},
+		{
+			"flag": "assets/images/pkrFlag.png",
+			"country": "Guinea",
+			"code": "GN"
+		},
+		{
+			"flag": "assets/images/pkrFlag.png",
+			"country": "Guadeloupe",
+			"code": "GP"
+		},
+		{
+			"flag": "assets/images/pkrFlag.png",
+			"country": "Equatorial Guinea",
+			"code": "GQ"
+		},
+		{
+			"flag": "assets/images/pkrFlag.png",
+			"country": "Greece",
+			"code": "GR"
+		},
+		{
+			"flag": "assets/images/pkrFlag.png",
+			"country": "South Georgia & South Sandwich Islands",
+			"code": "GS"
+		},
+		{
+			"flag": "assets/images/pkrFlag.png",
+			"country": "Guatemala",
+			"code": "GT"
+		},
+		{
+			"flag": "assets/images/pkrFlag.png",
+			"country": "Guam",
+			"code": "GU"
+		},
+		{
+			"flag": "assets/images/pkrFlag.png",
+			"country": "Guinea-Bissau",
+			"code": "GW"
+		},
+		{
+			"flag": "assets/images/pkrFlag.png",
+			"country": "Guyana",
+			"code": "GY"
+		},
+		{
+			"flag": "assets/images/pkrFlag.png",
+			"country": "Hong Kong SAR China",
+			"code": "HK"
+		},
+		{
+			"flag": "assets/images/pkrFlag.png",
+			"country": "Heard & McDonald Islands",
+			"code": "HM"
+		},
+		{
+			"flag": "assets/images/pkrFlag.png",
+			"country": "Honduras",
+			"code": "HN"
+		},
+		{
+			"flag": "assets/images/pkrFlag.png",
+			"country": "Croatia",
+			"code": "HR"
+		},
+		{
+			"flag": "assets/images/pkrFlag.png",
+			"country": "Haiti",
+			"code": "HT"
+		},
+		{
+			"flag": "assets/images/pkrFlag.png",
+			"country": "Hungary",
+			"code": "HU"
+		},
+		{
+			"flag": "assets/images/pkrFlag.png",
+			"country": "Canary Islands",
+			"code": "IC"
+		},
+		{
+			"flag": "assets/images/pkrFlag.png",
+			"country": "Indonesia",
+			"code": "ID"
+		},
+		{
+			"flag": "assets/images/pkrFlag.png",
+			"country": "Ireland",
+			"code": "IE"
+		},
+		{
+			"flag": "assets/images/pkrFlag.png",
+			"country": "Israel",
+			"code": "IL"
+		},
+		{
+			"flag": "assets/images/pkrFlag.png",
+			"country": "Isle of Man",
+			"code": "IM"
+		},
+		{
+			"flag": "assets/images/pkrFlag.png",
+			"country": "India",
+			"code": "IN"
+		},
+		{
+			"flag": "assets/images/pkrFlag.png",
+			"country": "British Indian Ocean Territory",
+			"code": "IO"
+		},
+		{
+			"flag": "assets/images/pkrFlag.png",
+			"country": "Iraq",
+			"code": "IQ"
+		},
+		{
+			"flag": "assets/images/pkrFlag.png",
+			"country": "Iran",
+			"code": "IR"
+		},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Iceland",
+				"code": "IS"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Italy",
+				"code": "IT"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Jersey",
+				"code": "JE"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Jamaica",
+				"code": "JM"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Jordan",
+				"code": "JO"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Japan",
+				"code": "JP"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Kenya",
+				"code": "KE"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Kyrgyzstan",
+				"code": "KG"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Cambodia",
+				"code": "KH"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Kiribati",
+				"code": "KI"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Comoros",
+				"code": "KM"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "St. Kitts & Nevis",
+				"code": "KN"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "North Korea",
+				"code": "KP"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "South Korea",
+				"code": "KR"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Kuwait",
+				"code": "KW"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Cayman Islands",
+				"code": "KY"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Kazakhstan",
+				"code": "KZ"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Laos",
+				"code": "LA"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Lebanon",
+				"code": "LB"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "St. Lucia",
+				"code": "LC"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Liechtenstein",
+				"code": "LI"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Sri Lanka",
+				"code": "LK"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Liberia",
+				"code": "LR"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Lesotho",
+				"code": "LS"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Lithuania",
+				"code": "LT"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Luxembourg",
+				"code": "LU"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Latvia",
+				"code": "LV"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Libya",
+				"code": "LY"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Morocco",
+				"code": "MA"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Monaco",
+				"code": "MC"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Moldova",
+				"code": "MD"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Montenegro",
+				"code": "ME"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "St. Martin",
+				"code": "MF"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Madagascar",
+				"code": "MG"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Marshall Islands",
+				"code": "MH"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "North Macedonia",
+				"code": "MK"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Mali",
+				"code": "ML"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Myanmar (Burma)",
+				"code": "MM"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Mongolia",
+				"code": "MN"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Macao Sar China",
+				"code": "MO"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Northern Mariana Islands",
+				"code": "MP"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Martinique",
+				"code": "MQ"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Mauritania",
+				"code": "MR"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Montserrat",
+				"code": "MS"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Malta",
+				"code": "MT"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Mauritius",
+				"code": "MU"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Maldives",
+				"code": "MV"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Malawi",
+				"code": "MW"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Mexico",
+				"code": "MX"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Malaysia",
+				"code": "MY"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Mozambique",
+				"code": "MZ"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Namibia",
+				"code": "NA"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "New Caledonia",
+				"code": "NC"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Niger",
+				"code": "NE"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Norfolk Island",
+				"code": "NF"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Nigeria",
+				"code": "NG"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Nicaragua",
+				"code": "NI"
+			},
+		
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Netherlands",
+				"code": "NL"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Norway",
+				"code": "NO"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Nepal",
+				"code": "NP"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Nauru",
+				"code": "NR"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Niue",
+				"code": "NU"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "New Zealand",
+				"code": "NZ"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Oman",
+				"code": "OM"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Panama",
+				"code": "PA"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Peru",
+				"code": "PE"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "French Polynesia",
+				"code": "PF"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Papua New Guinea",
+				"code": "PG"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Philippines",
+				"code": "PH"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Pakistan",
+				"code": "PKR"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Poland",
+				"code": "PL"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "St. Pierre & Miquelon",
+				"code": "PM"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Pitcairn Islands",
+				"code": "PN"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Puerto Rico",
+				"code": "PR"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Palestinian Territories",
+				"code": "PS"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Portugal",
+				"code": "PT"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Palau",
+				"code": "PW"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Paraguay",
+				"code": "PY"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Qatar",
+				"code": "QA"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Réunion",
+				"code": "RE"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Romania",
+				"code": "RO"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Serbia",
+				"code": "RS"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Russia",
+				"code": "RU"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Rwanda",
+				"code": "RW"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Saudi Arabia",
+				"code": "SA"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Solomon Islands",
+				"code": "SB"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Seychelles",
+				"code": "SC"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Sudan",
+				"code": "SD"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Sweden",
+				"code": "SE"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Singapore",
+				"code": "SG"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "St. Helena",
+				"code": "SH"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Slovenia",
+				"code": "SI"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Svalbard & Jan Mayen",
+				"code": "SJ"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Slovakia",
+				"code": "SK"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Sierra Leone",
+				"code": "SL"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "San Marino",
+				"code": "SM"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Senegal",
+				"code": "SN"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Somalia",
+				"code": "SO"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Suriname",
+				"code": "SR"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "South Sudan",
+				"code": "SS"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "São Tomé & Príncipe",
+				"code": "ST"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "El Salvador",
+				"code": "SV"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Sint Maarten",
+				"code": "SX"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Syria",
+				"code": "SY"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Eswatini",
+				"code": "SZ"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Tristan Da Cunha",
+				"code": "SH"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Turks & Caicos Islands",
+				"code": "TC"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Chad",
+				"code": "TD"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "French Southern Territories",
+				"code": "TF"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Togo",
+				"code": "TG"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Thailand",
+				"code": "TH"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Tajikistan",
+				"code": "TJ"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Tokelau",
+				"code": "TK"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Timor-Leste",
+				"code": "TL"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Turkmenistan",
+				"code": "TM"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Tajikistan",
+				"code": "TJ"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Tokelau",
+				"code": "TK"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Timor-Leste",
+				"code": "TL"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Turkmenistan",
+				"code": "TM"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Tunisia",
+				"code": "TN"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Tonga",
+				"code": "TO"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Turkey",
+				"code": "TR"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Trinidad & Tobago",
+				"code": "TT"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Tuvalu",
+				"code": "TV"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Taiwan",
+				"code": "TW"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Tanzania",
+				"code": "TZ"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Ukraine",
+				"code": "UA"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Uganda",
+				"code": "UG"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "U.S. Outlying Islands",
+				"code": "UM"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "United Nations",
+				"code": "UN"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "United States",
+				"code": "USD"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Uruguay",
+				"code": "UY"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Uzbekistan",
+				"code": "UZ"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Vatican City",
+				"code": "VA"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "St. Vincent & Grenadines",
+				"code": "VC"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Venezuela",
+				"code": "VE"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "British Virgin Islands",
+				"code": "VG"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "U.S. Virgin Islands",
+				"code": "VI"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Vietnam",
+				"code": "VN"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Vanuatu",
+				"code": "VU"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Wallis & Futuna",
+				"code": "WF"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Samoa",
+				"code": "WS"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Kosovo",
+				"code": "XK"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Yemen",
+				"code": "YE"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Mayotte",
+				"code": "YT"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "South Africa",
+				"code": "ZA"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Zambia",
+				"code": "ZM"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Zimbabwe",
+				"code": "ZW"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "England",
+				"code": "GB"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Scotland",
+				"code": "GB"
+			},
+			{
+				"flag": "assets/images/pkrFlag.png",
+				"country": "Wales",
+				"code": "GB"
+			}
+]
